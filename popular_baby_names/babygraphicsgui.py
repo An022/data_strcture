@@ -5,8 +5,7 @@ Sonja Johnson-Yu, Kylie Jue, and Nick Bowman.
 
 This file defines the functions needed to create the GUI for
 the Baby Names project.
-
-You should not modify any of the contents of this file.
+Should not modify any of the contents of this file.
 """
 
 import tkinter

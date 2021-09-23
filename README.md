@@ -5,12 +5,15 @@ Reference to Stanford University’s assignment CS106AP: Programming Methodologi
   The program graphs the popularity of U.S. baby names from 1900 through 2010, allowing users to analyze interesting trends in baby names over time, by using map to build data structures and object-oriented programming present simple graphics to create a large-scale application.
 
   * [babygraphics.py](https://github.com/An022/self_learning-data_strcture/blob/main/popular_baby_names/babygraphics.py)\
-      * get_x_coordinate(width, year_index):\ 
+      * get_x_coordinate(width, year_index): 
+        
         Given the width of the canvas and the index of the current year in the YEARS list, returns the x coordinate of the vertical line associated with that year.
       * draw_fixed_lines(canvas):
+        
         Erases all existing information on the given canvas and then draws the fixed background lines on it.
         
       * draw_names(canvas, name_data, lookup_names):
+        
         Given a dict of baby name data and a list of name, plots the historical trend of those names onto the canvas.
   
   * [babynames.py](https://github.com/An022/self_learning-data_strcture/blob/main/popular_baby_names/babynames.py)
